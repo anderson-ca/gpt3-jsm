@@ -45,7 +45,7 @@ const Navbar = () => {
                             <div className="gpt3__navbar-menu_container-links">
                                 <Menu />
                             </div>
-                        </div> 
+                        </div>
                     )
                 }
             </div>
